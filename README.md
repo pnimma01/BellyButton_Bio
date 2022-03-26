@@ -8,7 +8,7 @@ The objective of this excercise is to use Plotly to parse and transform the data
 2. Crate drop downs
 3. Reetrieve data from external data sources.
 
-The dashboard is live here: ![BellyButton Biology Dashboard](https://pnimma01.github.io/BellyButton_Bio/)
+The dashboard is live here: [BellyButton Biology Dashboard](https://pnimma01.github.io/BellyButton_Bio/)
 
 ***Horizontal Bar Chart***
 
